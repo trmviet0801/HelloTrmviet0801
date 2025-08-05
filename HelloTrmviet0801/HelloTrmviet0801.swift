@@ -7,3 +7,8 @@
 
 import Foundation
 
+public class HelloTrmviet0801 {
+    public static func printHello() {
+        print("Hello from binary CocoaPod 🎉")
+    }
+}
